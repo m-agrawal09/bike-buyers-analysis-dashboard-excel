@@ -10,7 +10,7 @@ The dashboard uses Pivot Tables, Pivot Charts, KPI Cards, and Slicers to transfo
 
 ## 📊 Dashboard Preview
 
-![Dashboard](images/dashboard-preview.png)
+![Dashboard](dashboard-preview.png)
 
 ---
 
@@ -114,5 +114,5 @@ The dataset contains customer demographic and purchasing information, including:
 
 ## 👨‍💻 Author
 
-**Medhavi Agrawal**
+**Medhavi Agrawal** <br>
 Aspiring Data Analyst | Excel | SQL | Power BI
